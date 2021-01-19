@@ -1,8 +1,35 @@
-body {
+/*body {
   background-color: #cb997e;
   background-color: #ddbea9;
   background-color: #ffe8d6;
   background-color: #b7b7a4;
   background-color: #a5a58d;
   background-color: #6b705c;
+}*/
+
+header {
+  background-color: #a5a58d;
+  height: 200px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+body {
+  background-color: #ddbea9;
+}
+
+li {
+  display: inline-block;
+  padding: 45px;
+}
+
+ul {
+
 }
