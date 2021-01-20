@@ -30,6 +30,11 @@ li {
   padding: 45px;
 }
 
-ul {
 
+a:link {
+  color: black
+}
+
+a:hover {
+  color: purple
 }
