@@ -50,6 +50,12 @@ footer {
   color: black;
 }
 
+.col-6 {
+  float: left;
+  text-align: left;
+  padding: 20px;
+}
+
 
 
 
