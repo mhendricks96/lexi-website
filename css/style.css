@@ -9,8 +9,9 @@
 
 header {
   background-color: #a5a58d;
-  height: 200px;
+  height: 250px;
   text-align: center;
+  padding-top: 60px;
 }
 
 h1 {
@@ -30,6 +31,9 @@ li {
   padding: 45px;
 }
 
+ul {
+  
+}
 
 a {
   color: black
@@ -37,4 +41,27 @@ a {
 
 a:hover {
   color: purple
+}
+
+#mainPicture {
+  width: 100%;
+}
+
+#faqPicture {
+  width: 100%;
+  height: 350px;
+}
+
+#resourcesPicture {
+  width: 100%;
+}
+
+#bookingPicture {
+  width: 100%;
+  height: 350px;
+}
+
+#aboutPicture {
+  width: 100%;
+  height: 350px;
 }
