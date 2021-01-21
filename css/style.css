@@ -43,25 +43,7 @@ a:hover {
   color: purple
 }
 
-#mainPicture {
-  width: 100%;
-}
-
-#faqPicture {
-  width: 100%;
-  height: 350px;
-}
-
-#resourcesPicture {
-  width: 100%;
-}
-
-#bookingPicture {
-  width: 100%;
-  height: 350px;
-}
-
-#aboutPicture {
+.mainPictures {
   width: 100%;
   height: 350px;
 }
